@@ -144,7 +144,7 @@ body .firstSection{
 }
 .secondSection{
     margin: 0;
-    outline: 1px solid orange;
+    /* outline: 1px solid orange; */
     background-color: rgb(241, 124, 114);
     padding-top: 5px;
     text-align: center;
